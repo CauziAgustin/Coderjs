@@ -128,7 +128,7 @@ const baseDeDatos = [
 ];
 
 let carrito = [];
-const divisa = "$ ";
+const divisa = "$";
 const DOMitems = document.querySelector("#items");
 const DOMcarrito = document.querySelector("#carrito");
 const DOMtotal = document.querySelector("#total");
@@ -152,7 +152,7 @@ function renderizarProductos() {
     miNodoTitle.textContent = info.nombre;
     // Imagen
     const miNodoImagen = document.createElement("img");
-    miNodoImagen.classList.add("img-fluid" , "w-75");
+    miNodoImagen.classList.add("img-fluid" , "w-75","h-50");
     miNodoImagen.setAttribute("src", info.imagen);
     // Precio
     const miNodoPrecio = document.createElement("p");
