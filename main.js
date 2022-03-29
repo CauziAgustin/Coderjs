@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       id: 11,
       nombre: "Atado Perejil",
-      precio: 300,
+      precio: 68,
       imagen: "verduras/Perejil.bmp",
     },
     {
@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", () => {
     baseDeDatos.forEach((info) => {
       // Estructura
       const miNodo = document.createElement("div");
-      miNodo.classList.add("card", "col-sm-4");
+      miNodo.classList.add("card", "col-sm-6","col-md-4");
       // Body
       const miNodoCardBody = document.createElement("div");
       miNodoCardBody.classList.add("card-body");
