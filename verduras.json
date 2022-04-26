@@ -1,0 +1,126 @@
+[{
+    "id": 1,
+    "nombre": "1kg Papa",
+    "precio": 40,
+    "imagen": "verduras/papa.bmp"
+  },
+  {
+    "id": 2,
+    "nombre": " 1kg Cebolla",
+    "precio": 60,
+    "imagen": "verduras/cebolla.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "1kg Calabaza",
+    "precio": 83,
+    "imagen": "verduras/calabaza.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "1kg Zanahoria",
+    "precio": 62,
+    "imagen": "verduras/zanahoria.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "1kg Morron rojo",
+    "precio": 340,
+    "imagen": "verduras/morronrojo.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "1kg Morron verde",
+    "precio": 220,
+    "imagen": "verduras/morron verde.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Unidad Brocoli",
+    "precio": 100,
+    "imagen": "verduras/brocoli.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Unidad Coliflor",
+    "precio": 90,
+    "imagen": "verduras/coliflor.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "1kg Zapallito",
+    "precio": 110,
+    "imagen": "verduras/zapallito.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Atado Puerro",
+    "precio": 99,
+    "imagen": "verduras/puerro.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Atado Perejil",
+    "precio": 68,
+    "imagen": "verduras/Perejil.bmp"
+  },
+  {
+    "id": 12,
+    "nombre": "Atado Albahaca",
+    "precio": 300,
+    "imagen": "verduras/Albahaca.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Cabeza de Ajo",
+    "precio": 96,
+    "imagen": "verduras/ajo.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "1kg Cebolla de verdeo",
+    "precio": 76,
+    "imagen": "verduras/cebolla verdeo.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "1kg Lechuga",
+    "precio": 187,
+    "imagen": "verduras/lechuga.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "1kg Tomate redondo",
+    "precio": 109,
+    "imagen": "verduras/tomate.bmp"
+  },
+  {
+    "id": 17,
+    "nombre": "1kg Repollo colorado",
+    "precio": 130,
+    "imagen": "verduras/repollo colorado.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Unidad Palta",
+    "precio": 150,
+    "imagen": "verduras/Palta.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Atado Rucula",
+    "precio": 100,
+    "imagen": "verduras/Rucula.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Atado Acelga",
+    "precio": 100,
+    "imagen": "verduras/Acelga.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Atado Espinaca",
+    "precio": 90,
+    "imagen": "verduras/Espinaca.bmp"
+  }]
